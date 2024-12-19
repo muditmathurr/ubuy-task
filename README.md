@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 # steps to run 
 # npm install
 # npm run dev
-# will run on paths "/", "/login", "signup"
+# will run on paths "/", "/login", "signup" , "/products"
